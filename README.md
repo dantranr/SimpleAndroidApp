@@ -11,4 +11,8 @@ Run in the Android phone.
 2. Select the tip percentage
 3. Tap on "Calculate"
 ->the tip amount and total amount will be appeared 
-(see Android-tip-cal.png)
+![Design][design]
+
+[design]: https://github.com/dantranr/SimpleAndroidApp/blob/master/Android-tip-cal.png "Tip Calculator App"
+
+
